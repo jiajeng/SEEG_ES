@@ -18,7 +18,7 @@
   #### step 4.4 : click `Surgical Studio`
   ![image](https://github.com/user-attachments/assets/60d2622c-3cff-4637-b739-7db2ef8b2883) 
   #### step 4.5 : enter `license ID`
-  #### step 4.6 : enter `User Code` [shown in this](#userNumber)  
+  #### step 4.6 : enter `User Code` [shown in step3.5](#userNumber)  
   ![image](https://github.com/user-attachments/assets/e3f2ccfc-bc3c-4c39-9d53-4f3bf9725f47) 
   #### step 4.7 : enter `PC Serial number`
   #### type `wmic bios get serialnumber` in cmd   
